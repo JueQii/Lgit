@@ -1,4 +1,8 @@
 I AM JUEQii just an ungruaduate 
 MY EMAIL IS 2845566743@QQ.COM
 switched to branch is very quick.
+<<<<<<< HEAD
 this is for master
+=======
+this is for the branch fea.
+>>>>>>> fea
