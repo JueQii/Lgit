@@ -13,3 +13,5 @@ this is for dev
 this is for mings
 
 this is for mings www.
+
+this is for reLgit /dev
