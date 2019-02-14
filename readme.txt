@@ -6,3 +6,6 @@ this is for master
 =======
 this is for the branch fea.
 >>>>>>> fea
+
+this is for dev
+>>>>>>> dev
